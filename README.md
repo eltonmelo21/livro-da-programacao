@@ -4,11 +4,13 @@
 que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.
 
 Na verdade, não é bem um livro: trata-se de um bem humorado<br/>
-"texto zen apócrifo", atribuído ao mestre fictício Fu-tzu.
+"texto zen apócrifo", atribuído ao fictício mestre Fu-tzu.
 
 Se você quiser conhecer as verdadeiras obras clássicas,<br/>
 como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>,<br/>
 consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
+
+Divirtam-se!
 
 <br/>
 
