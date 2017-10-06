@@ -1,5 +1,3 @@
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
-
 <i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>, que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.<br/>
 Na verdade, não é bem um livro: trata-se de um bem humorado "texto zen apócrifo" do mestre fictício Fu-tzu.<br/>
 Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>, consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
@@ -7,6 +5,8 @@ Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan<
 # O Livro da Programação
 
 ## Os Dois Aspectos
+
+<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
 
 Abaixo da superfície da máquina, o programa se move.<br/>
 Sem esforço, ele se espande e se contrai.<br/>
