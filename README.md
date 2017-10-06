@@ -10,7 +10,7 @@ Se você quiser conhecer as verdadeiras obras clássicas,<br/>
 como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>,<br/>
 consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
 
-<hr/>
+<br/>
 
 # O Livro da Programação
 
