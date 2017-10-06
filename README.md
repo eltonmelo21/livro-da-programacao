@@ -10,7 +10,7 @@ Abaixo da superfície da máquina, o programa se move.<br/>
 Sem esforço, ele se espande e se contrai.<br/>
 Em grande harmonia, os elétrons se dispersam e se reagrupam.<br/>
 As formas sobre o monitor são apenas ondulações sobre a água.<br/>
-A essência permanece invisivelmente abaixo.
+A essência permanece invisivelmente abaixo.<hr/>
 
 Quando os criadores construíram a máquina,<br/>
 eles colocaram o processador e a memória.<br/>
@@ -66,36 +66,36 @@ Tzu-li e Tzu-ssu estavam se gabando sobre o tamanho dos seus últimos programas.
 Fu-Tzu disse: "O meu melhor programa tem quinhentas linhas".<br/>
 Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.
 
-Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo sombriamente a testa.
-Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem certa.
-Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"
-O aluno começou a escrever uma solução feia.
-Depois de terminar, ele subitamente entendeu a solução bonita.
+Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo sombriamente a testa.<br/>
+Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem certa.<br/>
+Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"<br/>
+O aluno começou a escrever uma solução feia.<br/>
+Depois de terminar, ele subitamente compreendeu a solução bonita.
 
 ## Progressão
 
-Um progragramador principantes escreve seus programas como uma formiga constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.
-Seus programas serão como a areia fofa.
-Eles podem ficar por um tempo, mas crescendo demais, eles desmoronarão.
+Um progragramador principantes escreve seus programas como uma formiga constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.<br/>
+Seus programas serão como a areia fofa.<br/>
+Eles podem ficar por um tempo, mas crescendo demais, eles desmoronarão.<br/>
 <i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i>
 
-Percebendo esse problema, o programador começará a gastar muito tempo pensando na estrutura.
-Seus programas serão estruturados rigidamente, como esculturas na rocha.
-Eles são sólidos, mas quando precisarem mudar, violência precisa ser feita com eles.
+Percebendo esse problema, o programador começará a gastar muito tempo pensando na estrutura.<br/>
+Seus programas serão estruturados rigidamente, como esculturas na rocha.<br/>
+Eles são sólidos, mas quando precisarem mudar, violência precisa ser feita com eles.<br/>
 <i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i>
 
-O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simpla.
+O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
 Seus programas são como a argila, sólidos porém maleaveis.
 
 ## Linguagem
 
-Quando uma linguagem de programação é criada, lhe é dada a sintaxe e a semântica.
-A sintaxe descreve a forma do programa, a semântica descreva a função.
-Quando a sintaxe é bonita e a semântica é claras, o programa será como uma árvore majestosa.
-Quando a sintaxe é desajeitado e a semântica confusa, o programa será como um arbusto espinhento.
+Quando uma linguagem de programação é criada, lhe é dada a sintaxe e a semântica.<br/>
+A sintaxe descreve a forma do programa, a semântica descreva a função.<br/>
+Quando a sintaxe é bonita e a semântica é claras, o programa será como uma árvore majestosa.<br/>
+Quando a sintaxe é desajeitado e a semântica confusa, o programa será como um arbusto espinhento.<br/>
 
-A Tzu-ssu foi pedido que escrevesse um programa em uma linguagem chamada Java, que tem uma abordagem muito primitiva com as funções.
-Todas as manhãs, quando se sentava na frente do seu computador, ele começava a reclamar.
-Ele xingavao o dia todo, culpando a linguagem por tudo o que ele fez errado.
-Fu-Tzu escutou por um tempo e então o censurou, dizendo:
+A Tzu-ssu foi pedido que escrevesse um programa em uma linguagem chamada Java, que tem uma abordagem muito primitiva com as funções.<br/>
+Todas as manhãs, quando se sentava na frente do seu computador, ele começava a reclamar.<br/>
+Ele xingavao o dia todo, culpando a linguagem por tudo o que ele fez errado.<br/>
+Fu-Tzu escutou por um tempo e então o censurou, dizendo:<br/>
 "Toda linguagem tem seu próprio caminho. Siga a forma dela, não tente programar como se você estivesse usando uma outra linguagem."
