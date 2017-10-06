@@ -94,7 +94,7 @@ Seus programas serão estruturados rigidamente, como esculturas na rocha.<br/>
 Eles são sólidos, mas quando precisarem mudar, violência precisa ser aplicada a eles.<br/>
 <i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i>
 
-O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
+O mestre programador sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
 Seus programas são como a argila, sólidos porém maleáveis.<hr/>
 
 ## Linguagem
