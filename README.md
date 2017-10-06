@@ -21,8 +21,8 @@ O aspecto da memória é a substância passiva.
 É chamado de <i>dados</i>.
 
 Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
-O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
-Do pequeno e trivial, surge o grandes e complexo.
+O controle consiste apenas de instruções simples, mas realiza tarefas difíceis.<br/>
+Do pequeno e trivial, surge o grande e complexo.
 
 A fonte do programa são os dados. O controle surge disso.<br/>
 O controle passa a criar novos dados.<br/>
