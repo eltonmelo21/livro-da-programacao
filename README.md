@@ -1,5 +1,6 @@
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right"><br/>
+<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
 
+## Nota do tradutor
 <i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>,<br/>
 que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.
 
