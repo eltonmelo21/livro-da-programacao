@@ -36,7 +36,7 @@ E o controle caótico foi restrito ao controle de estruturas e funções.
 
 ## Ditados Curtos
 
-Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo dos dados e controle, Fu-Tzu respondeu:<br/>
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de dados e controle, Fu-Tzu respondeu:<br/>
 "Pense em um compilador, compilando a si mesmo".
 
 Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
@@ -46,14 +46,14 @@ Um eremita passou dez anos escrevendo um programa.<br/>
 "Meu programa pode computar o movimento das estrelas em um computador 286 com MS-DOS", anunciou orgulhosamente.<br/>
 "Ninguém mais tem um computador 286 nem usa MS-DOS", respondeu Fu-Tzu.
 
-Fu-Tzu escreveu um pequeno programa cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
+Fu-Tzu escreveu um programinha cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
 "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
 Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."<br/>
-(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)
+<i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i>
 
 ## Sabedoria
 
-Um aluno estava reclamando sobre números digitais.</br>
+Um aluno estava reclamando a respeito dos números digitais.</br>
 "Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"<br/>
 Ao ouvi-lo, Fu-Tzu riu. "Aqui está uma folha de papel. Escreva para mim o valor preciso da raiz quadrada de dois."
 
