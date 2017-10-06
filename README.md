@@ -10,15 +10,21 @@ Em grande harmonia, os elétrons se dispersam e se reagrupam.<br/>
 As formas sobre o monitor são apenas ondulações sobre a água.<br/>
 A essência permanece invisivelmente abaixo.
 
-Quando os criadores construíram a máquina, eles colocaram o processador e a memória.<br/>
+Quando os criadores construíram a máquina,<br/>
+eles colocaram o processador e a memória.<br/>
 Destes surgem os dois aspectos do programa.
 
-O aspecto do processador é a substância ativa. É chamado de Controle.<br/>
-O aspecto da memória é a substância passiva. É chamado de Dados.
+O aspecto do processador é a substância ativa.
+<br/>É chamado de <i>Controle</i>.<br/>
+O aspecto da memória é a substância passiva.
+É chamado de <i>Dados</i>.
 
-Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
-O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
-Do pequeno e trivial, surge o grandes e complexo.
+Os dados são feitos apenas de bits,<br/>
+mas assumem formas complexas.<br/>
+O controle consiste apenas em instruções simples,<br/>
+mas realiza tarefas difíceis.<br/>
+Do pequeno e trivial,<br/>
+surge o grandes e complexo.
 
 A fonte do programa são os dados. O controle surge disso.<br/>
 O controle passa a criar novos dados.<br/>
