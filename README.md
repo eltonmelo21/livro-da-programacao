@@ -7,7 +7,7 @@ Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan<
 ## Os Dois Aspectos
 
 Abaixo da superfície da máquina, o programa se move.<br/>
-Sem esforço, ele se espande e contrai.<br/>
+Sem esforço, ele se espande e se contrai.<br/>
 Em grande harmonia, os elétrons se dispersam e se reagrupam.<br/>
 As formas sobre o monitor são apenas ondulações sobre a água.<br/>
 A essência permanece invisivelmente abaixo.
