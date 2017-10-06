@@ -73,7 +73,7 @@ Depois de terminar, ele subitamente compreendeu a solução bonita.<hr/>
 
 ## Progressão
 
-Um progragramador principantes escreve seus programas como uma formiga constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.<br/>
+Um programador principante escreve seus programas como uma formiga que constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.<br/>
 Seus programas serão como a areia fofa.<br/>
 Eles podem ficar por um tempo, mas crescendo demais, eles desmoronarão.<br/>
 <i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i>
