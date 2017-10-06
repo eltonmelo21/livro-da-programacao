@@ -26,7 +26,7 @@ Do pequeno e trivial, surge o grande e complexo.<hr/>
 A fonte do programa são os dados. O controle surge disso.<br/>
 O controle passa a criar dados novos.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
-Este é o ciclo harmonioso de dados e controle.<hr/>
+Este é o ciclo harmonioso dos dados e do controle.<hr/>
 
 Por si mesmos, os dados e o controle não têm estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
@@ -35,7 +35,7 @@ E o controle caótico foi restrito ao controle de estruturas e funções.<hr/>
 
 ## Ditados Curtos
 
-Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de dados e controle, Fu-Tzu respondeu:<br/>
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo dos dados e do controle, Fu-Tzu respondeu:<br/>
 "Pense em um compilador, compilando a si mesmo".<hr/>
 
 Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram  programas bonitos. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
