@@ -4,9 +4,9 @@ Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan<
 
 # O Livro da Programação
 
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
-
 ## Os Dois Aspectos
+
+<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
 
 Abaixo da superfície da máquina, o programa se move.<br/>
 Sem esforço, ele se espande e se contrai.<br/>
