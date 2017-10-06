@@ -48,7 +48,7 @@ Um eremita passou dez anos escrevendo um programa.<br/>
 
 Fu-Tzu escreveu um programinha cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
 "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
-Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."<br/>
+Fu-Tzu disse: "Não há necessidade de procurar uma mangueira quando a casa não está em chamas."<br/>
 <i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i>
 
 ## Sabedoria
