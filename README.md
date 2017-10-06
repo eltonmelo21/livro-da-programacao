@@ -25,7 +25,7 @@ O controle consiste apenas de instruções simples, mas realiza tarefas difícei
 Do pequeno e trivial, surge o grande e complexo.
 
 A fonte do programa são os dados. O controle surge disso.<br/>
-O controle passa a criar novos dados.<br/>
+O controle passa a criar dados novos.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
 Este é o ciclo harmonioso de dados e controle.
 
