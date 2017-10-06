@@ -41,7 +41,7 @@ Este é o ciclo harmonioso dos dados e do controle.
 Por si mesmos, os dados e o controle não têm estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
 Ao longo do tempo, os dados amorfos cristalizaram-se em tipos de dados<br/>
-E o controle caótico foi restrito ao controle de estruturas e funções.<hr/>
+e o controle caótico foi restrito ao controle de estruturas e funções.<hr/>
 
 ## Ditados Curtos
 
