@@ -12,7 +12,7 @@ consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i
 
 Divirtam-se!
 
-<br/>
+<hr/>
 
 # O Livro da Programação
 
