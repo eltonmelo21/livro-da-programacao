@@ -1,4 +1,4 @@
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="left">
+<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="left" hspace="10">
 
 ## Nota do tradutor
 
@@ -11,8 +11,6 @@ Na verdade, não é bem um livro: trata-se de um bem humorado<br/>
 Se você quiser conhecer as verdadeiras obras clássicas,<br/>
 como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>,<br/>
 consulte este <b><a href="http://www.sacred-texts.com/bud/zen/">outro site</a></b>.</i>
-
-Divirtam-se!<br/>
 
 <hr/>
 
