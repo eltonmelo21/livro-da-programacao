@@ -107,5 +107,5 @@ Quando a sintaxe é desajeitada e a semântica confusa, o programa será como um
 A Tzu-ssu foi pedido que escrevesse um programa em uma linguagem chamada Java, que tem uma abordagem muito primitiva com as funções.<br/>
 Todas as manhãs, quando se sentava na frente do seu computador, ele começava a reclamar.<br/>
 Ele xingava o dia inteiro, culpando a linguagem por tudo o que ele fazia de errado.<br/>
-Fu-Tzu escutou por um tempo e então o censurou, dizendo:<br/>
-"Toda linguagem tem o seu próprio caminho. Siga a forma dela, não tente programar como se você estivesse usando uma outra linguagem."
+Fu-Tzu escutou por um tempo e então o censurou, dizendo: "Toda linguagem tem o seu próprio caminho.<br/>
+Siga a forma dela, não tente programar como se você estivesse usando uma outra linguagem."
