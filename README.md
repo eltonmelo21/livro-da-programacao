@@ -34,11 +34,11 @@ E o Controle caótico foi restrito ao controle de estruturas e funções.
 
 ## Ditados Curtos
 
-Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de Dados e Controle,<br/>
-Fu-Tzu respondeu: "Pense em um compilador, compilando a si mesmo".
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo dos Dados e Controle,<br/> Fu-Tzu respondeu:
+"Pense em um compilador, compilando a si mesmo".
 
 Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
-Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas construíram belas cabanas."
+Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram belas cabanas."
 
 Um eremita passou dez anos escrevendo um programa.<br/>
 "Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.<br/>
