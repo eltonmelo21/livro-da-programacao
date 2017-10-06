@@ -4,47 +4,47 @@
 
 ## Os Dois Aspectos
 
-Abaixo da superfície da máquina, o programa se move.
-Sem esforço, ele se espande e contrai.
-Em grande harmonia, os elétrons se dispersam e se reagrupam.
-As formas sobre o monitor são apenas ondulações sobre a água.
+Abaixo da superfície da máquina, o programa se move.<br/>
+Sem esforço, ele se espande e contrai.<br/>
+Em grande harmonia, os elétrons se dispersam e se reagrupam.<br/>
+As formas sobre o monitor são apenas ondulações sobre a água.<br/>
 A essência permanece invisivelmente abaixo.
 
-Quando os criadores construíram a máquina, eles colocaram o processador e a memória.
+Quando os criadores construíram a máquina, eles colocaram o processador e a memória.<br/>
 Destes surgem os dois aspectos do programa.
 
-O aspecto do processador é a substância ativa. É chamado de Controle.
+O aspecto do processador é a substância ativa. É chamado de Controle.<br/>
 O aspecto da memória é a substância passiva. É chamado de Dados.
 
-Os dados são feitos apenas de bits, mas assumem formas complexas.
-O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.
+Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
+O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
 Do pequeno e trivial, surge o grandes e complexo.
 
-A fonte do programa são os dados. O controle surge disso.
-O controle passa a criar novos dados.
-Um nasce do outro, o outro é inútil sem o um.
+A fonte do programa são os dados. O controle surge disso.<br/>
+O controle passa a criar novos dados.<br/>
+Um nasce do outro, o outro é inútil sem o um.<br/>
 Este é o ciclo harmonioso dos Dados e do Controle.
 
-Por si mesmos, os Dados e o Controle são sem estrutura.
-Os programadores do passado moldaram seus programas desta substância bruta.
-Ao longo do tempo, os Dados amorfos cristalizaram-se em tipos de dados
+Por si mesmos, os Dados e o Controle são sem estrutura.<br/>
+Os programadores do passado moldaram seus programas desta substância bruta.<br/>
+Ao longo do tempo, os Dados amorfos cristalizaram-se em tipos de dados<br/>
 E o Controle caótico foi restrito ao controle de estruturas e funções.
 
 ## Ditados Curtos
 
-Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de Dados e Controle,
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de Dados e Controle,<br/>
 Fu-Tzu respondeu: "Pense em um compilador, compilando a si mesmo".
 
-Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"
+Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
 Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas construíram belas cabanas."
 
-Um eremita passou dez anos escrevendo um programa.
-"Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.
+Um eremita passou dez anos escrevendo um programa.<br/>
+"Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.<br/>
 "Ninguém mais tem um computador 286 ou usa MS DOS", respondeu Fu-Tzu.
 
-Fu-Tzu escreveu um pequeno programa cheio de <i>globak state</i> e atalhos duvidosos.
-Ao lê-lo, um aluno perguntou: "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode?"
-Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."
+Fu-Tzu escreveu um pequeno programa cheio de <i>globak state</i> e atalhos duvidosos.<br/>
+Ao lê-lo, um aluno perguntou: "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode?"<br/>
+Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."<br/>
 (Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)
 
 ## Sabedoria
