@@ -53,8 +53,7 @@ Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não e
 
 Um aluno estava reclamando sobre números digitais.</br>
 "Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"<br/>
-Ao ouvi-lo, Fu-Tzu riu.<br/>
-"Aqui está uma folha de papel. Escreva o valor preciso da raiz quadrada de dois para mim."
+Ao ouvi-lo, Fu-Tzu riu. Aqui está uma folha de papel. Escreva o valor preciso da raiz quadrada de dois para mim."
 
 Fu-Tzu disse: "Quando você corta contra a fibra da madeira, muita força é ncessária.<br/>
 Quando você programa contra a fibra de um problema, muito código é necessário."
