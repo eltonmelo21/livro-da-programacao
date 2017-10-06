@@ -109,3 +109,5 @@ Todas as manhãs, quando se sentava na frente do seu computador, ele começava a
 Ele xingava o dia inteiro, culpando a linguagem por tudo o que ele fazia de errado.<br/>
 Fu-Tzu escutou por um tempo e então o censurou, dizendo:<br/>
 "Toda linguagem tem seu próprio caminho. Siga a forma dela, não tente programar como se você estivesse usando uma outra linguagem."
+
+<img src="https://cdn.shopify.com/s/files/1/0773/7203/products/personal_01_large.png?v=1425362926" align="center">
