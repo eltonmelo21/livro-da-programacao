@@ -3,7 +3,7 @@ Na verdade, não é bem um livro: trata-se de um bem humorado "texto zen apócri
 Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>, consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
 
 # O Livro da Programação
-<i>Atribuído ao mestre Fu-tu</i><hr/>
+<i>Atribuído ao mestre Fu-tu</i>
 
 ## Os Dois Aspectos
 
@@ -32,7 +32,7 @@ Este é o ciclo harmonioso dos dados e do controle.<hr/>
 Por si mesmos, os dados e o controle não têm estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
 Ao longo do tempo, os dados amorfos cristalizaram-se em tipos de dados<br/>
-E o controle caótico foi restrito ao controle de estruturas e funções.<hr/>
+E o controle caótico foi restrito ao controle de estruturas e funções.
 
 ## Ditados Curtos
 
@@ -49,7 +49,7 @@ Um eremita passou dez anos escrevendo um programa.<br/>
 Fu-Tzu escreveu um programinha cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
 "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
 Fu-Tzu disse: "Não há necessidade de procurar uma mangueira quando a casa não está em chamas."<br/>
-<i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i><hr/>
+<i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i>
 
 ## Sabedoria
 
@@ -70,7 +70,7 @@ Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo so
 Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem certa.<br/>
 Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"<br/>
 O aluno começou a escrever uma solução feia.<br/>
-Depois de terminar, ele subitamente compreendeu a solução bonita.<hr/>
+Depois de terminar, ele subitamente compreendeu a solução bonita.
 
 ## Progressão
 
@@ -85,7 +85,7 @@ Eles são sólidos, mas quando precisarem mudar, violência precisa ser feita co
 <i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i><hr/>
 
 O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
-Seus programas são como a argila, sólidos porém maleaveis.<hr/>
+Seus programas são como a argila, sólidos porém maleaveis.
 
 ## Linguagem
 
