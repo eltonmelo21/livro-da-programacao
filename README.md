@@ -3,7 +3,7 @@ Na verdade, não é bem um livro: trata-se de um bem humorado "texto zen apócri
 Se você quiser conhecer as verdadeiras obras clássicas, como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>, consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
 
 # O Livro da Programação
-<i.Atribuído ao mestre Fu-tu</i><hr/>
+<i>Atribuído ao mestre Fu-tu</i><hr/>
 
 ## Os Dois Aspectos
 
