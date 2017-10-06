@@ -29,7 +29,7 @@ O controle passa a criar dados novos.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
 Este é o ciclo harmonioso de dados e controle.
 
-Por si mesmos, os dados e o controle são sem estrutura.<br/>
+Por si mesmos, os dados e o controle não têm estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
 Ao longo do tempo, os dados amorfos cristalizaram-se em tipos de dados<br/>
 E o controle caótico foi restrito ao controle de estruturas e funções.
