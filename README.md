@@ -1,4 +1,4 @@
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="left" hspace="30">
+<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="left" hspace="50">
 
 ## Nota do tradutor
 
