@@ -1,4 +1,4 @@
-<i>Esta é uma tradução livre de </i><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a><i>, que apareceu na primeira edição do </i><a href="http://eloquentjavascript.net">Eloquent JavaScript</a><i>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os clássicos, consulte <a href="http://www.sacred-texts.com/bud/zen/">este site</a>.</i>
+<i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>, que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os clássicos, consulte <a href="http://www.sacred-texts.com/bud/zen/">este site</a>.</i>
   
 # O Livro da Programação
 
@@ -25,36 +25,29 @@ O controle passa a criar novos dados.
 Um nasce do outro, o outro é inútil sem o um.
 Este é o ciclo harmonioso dos Dados e do Controle.
 
-Of themselves, Data and Control are without structure. The programmers
-of old moulded their programs out of this raw substance. Over time,
-the amorphous Data has crystallised into data types, and the chaotic
-Control was restricted into control structures and functions.
+Por si mesmos, os Dados e o Controle são sem estrutura.
+Os programadores do passado moldaram seus programas desta substância bruta.
+Ao longo do tempo, os Dados amorfos cristalizaram-se em tipos de dados
+E o Controle caótico foi restrito ao controle de estruturas e funções.
 
-%% Short Sayings
+## Ditados Curtos
 
-When a student asked Fu-Tzu about the nature of the cycle of Data and
-Control, Fu-Tzu replied 'Think of a compiler, compiling itself.'
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de Dados e Controle,
+Fu-Tzu respondeu: "Pense em um compilador, compilando a si mesmo".
 
-A student asked 'The programmers of old used only simple machines and
-no programming languages, yet they made beautiful programs. Why do we
-use complicated machines and programming languages?'. Fu-Tzu replied
-'The builders of old used only sticks and clay, yet they made
-beautiful huts.'
+Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"
+Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas construíram belas cabanas."
 
-A hermit spent ten years writing a program. 'My program can compute
-the motion of the stars on a 286-computer running MS DOS', he proudly
-announced. 'Nobody owns a 286-computer or uses MS DOS anymore.',
-Fu-Tzu responded.
+Um eremita passou dez anos escrevendo um programa.
+"Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.
+"Ninguém mais tem um computador 286 ou usa MS DOS", respondeu Fu-Tzu.
 
-Fu-Tzu had written a small program that was full of global state and
-dubious shortcuts. Reading it, a student asked 'You warned us against
-these techniques, yet I find them in your program. How can this be?'
-Fu-Tzu said 'There is no need to fetch a water hose when the house is
-not on fire.'{This is not to be read as an encouragement of sloppy
-programming, but rather as a warning against neurotic adherence to
-rules of thumb.}
+Fu-Tzu escreveu um pequeno programa cheio de <i>globak state</i> e atalhos duvidosos.
+Ao lê-lo, um aluno perguntou: "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode?"
+Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."
+(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)
 
-%% Wisdom
+## Sabedoria
 
 A student was complaining about digital numbers. 'When I take the root
 of two and then square it again, the result is already inaccurate!'.
@@ -78,7 +71,7 @@ him on the back of his head and shouted '*Type something!*' The student
 started writing an ugly solution. After he had finished, he suddenly
 understood the beautiful solution.
 
-%% Progression
+## Progressão
 
 A beginning programmer writes his programs like an ant builds her
 hill, one piece at a time, without thought for the bigger structure.
@@ -96,7 +89,7 @@ The master programmer knows when to apply structure and when to leave
 things in their simple form. His programs are like clay, solid yet
 malleable.
 
-%% Language
+## Linguagem
 
 When a programming language is created, it is given syntax and
 semantics. The syntax describes the form of the program, the semantics
