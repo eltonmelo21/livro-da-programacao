@@ -1,31 +1,29 @@
-<i>Esta é uma tradução livre de <a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a>, que apareceu na primeira edição do <a href="http://eloquentjavascript.net">Eloquent JavaScript</a>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os textos clássicos, consulte <a href="http://www.sacred-texts.com/bud/zen/>este site</a>.</i>
+<i>Esta é uma tradução livre de </i><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a><i>, que apareceu na primeira edição do </i><a href="http://eloquentjavascript.net">Eloquent JavaScript</a><i>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os clássicos, consulte <a href="http://www.sacred-texts.com/bud/zen/">este site</a>.</i>
   
 # O Livro da Programação
 
-% The Book of Programming
+## Os Dois Aspectos
 
-%% The Two Aspects
+Abaixo da superfício da máquina, o programa se move.
+Sem esforço, ele se espande e contrai.
+Em grander harmonia, os elétros se dispersam e se reagrupam.
+As formas sobre o monitor são apenas ondulações sobre a água.
+A essência permanece invisivelmente abaixo.
 
-Below the surface of the machine, the program moves. Without effort,
-it expands and contracts. In great harmony, electrons scatter and
-regroup. The forms on the monitor are but ripples on the water. The
-essence stays invisibly below.
+Quando os criadores construíram a máquina, eles colocaram o processador e a memória.
+Destes surgem os dois aspectos do programa.
 
-When the creators built the machine, they put in the processor and the
-memory. From these arise the two aspects of the program.
+O aspecto do processador é a substância ativa. É chamado de Controle.
+O aspecto da memória é a substância passiva. É chamado de Dados.
 
-The aspect of the processor is the active substance. It is called
-Control. The aspect of the memory is the passive substance. It is
-called Data.
+Os dados são feitos apenas de bits, mas assumem formas complexas.
+O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.
+Do pequeno e trivial, surge o grandes e complexo.
 
-Data is made of merely bits, yet it takes complex forms. Control
-consists only of simple instructions, yet it performs difficult
-tasks. From the small and trivial, the large and complex arise.
-
-The program source is Data. Control arises from it. The Control
-proceeds to create new Data. The one is born from the other, the
-other is useless without the one. This is the harmonious cycle of
-Data and Control.
+A fonte do programa são os dados. O controle surge disso.
+O controle passa a criar novos dados.
+Um nasce do outro, o outro é inútil sem o um.
+Este é o ciclo harmonioso dos Dados e do Controle.
 
 Of themselves, Data and Control are without structure. The programmers
 of old moulded their programs out of this raw substance. Over time,
