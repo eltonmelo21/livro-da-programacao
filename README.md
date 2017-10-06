@@ -17,7 +17,7 @@ consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i
 ## Os Dois Aspectos
 
 Abaixo da superfície da máquina, o programa se move.<br/>
-Sem esforço, ele se espande e se contrai.<br/>
+Sem esforço, ele se expande e se contrai.<br/>
 Em grande harmonia, os elétrons se dispersam e se reagrupam.<br/>
 As formas sobre o monitor são apenas ondulações sobre a água.<br/>
 A essência permanece invisivelmente abaixo.
@@ -83,11 +83,11 @@ Depois de terminar, ele subitamente compreendeu a solução bonita.<hr/>
 
 ## Progressão
 
-Um programador principante escreve seus programas do modo como uma formiga constrói a sua colina,<br/>
+Um programador principiante escreve seus programas do modo como uma formiga constrói a sua colina,<br/>
 uma peça de cada vez, sem pensar na estrutura maior.<br/>
 Seus programas serão como a areia fofa.<br/>
 Eles podem ficar de pé por um tempo, mas crescendo demais, eles desmoronarão.<br/>
-<i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i>
+<i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganizado.)</i>
 
 Percebendo esse problema, o programador começará a gastar muito tempo pensando na estrutura.<br/>
 Seus programas serão estruturados rigidamente, como esculturas na rocha.<br/>
@@ -95,7 +95,7 @@ Eles são sólidos, mas quando precisarem mudar, violência precisa ser aplicada
 <i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i>
 
 O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
-Seus programas são como a argila, sólidos porém maleaveis.<hr/>
+Seus programas são como a argila, sólidos porém maleáveis.<hr/>
 
 ## Linguagem
 
