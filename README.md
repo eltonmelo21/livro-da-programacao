@@ -44,15 +44,15 @@ Um eremita passou dez anos escrevendo um programa.<br/>
 "Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.<br/>
 "Ninguém mais tem um computador 286 ou usa MS DOS", respondeu Fu-Tzu.
 
-Fu-Tzu escreveu um pequeno programa cheio de <i>globak state</i> e atalhos duvidosos.<br/>
-Ao lê-lo, um aluno perguntou: "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode?"<br/>
+Fu-Tzu escreveu um pequeno programa cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
+"Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
 Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não está em chamas."<br/>
 (Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)
 
 ## Sabedoria
 
 Um aluno estava reclamando sobre números digitais.</br>
-"Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"
+"Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"<br/>
 Ao ouvi-lo, Fu-Tzu riu.<br/>
 "Aqui está uma folha de papel. Escreva o valor preciso da raiz quadrada de dois para mim."
 
