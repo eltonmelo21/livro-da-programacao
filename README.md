@@ -4,9 +4,9 @@
 
 ## Os Dois Aspectos
 
-Abaixo da superfício da máquina, o programa se move.
+Abaixo da superfície da máquina, o programa se move.
 Sem esforço, ele se espande e contrai.
-Em grander harmonia, os elétros se dispersam e se reagrupam.
+Em grande harmonia, os elétrons se dispersam e se reagrupam.
 As formas sobre o monitor são apenas ondulações sobre a água.
 A essência permanece invisivelmente abaixo.
 
