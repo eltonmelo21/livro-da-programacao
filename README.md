@@ -43,8 +43,8 @@ Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples
 Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram belas cabanas."
 
 Um eremita passou dez anos escrevendo um programa.<br/>
-"Meu programa pode computar o movimento das estrelas em um computador 286 com MS DOS", anunciou orgulhosamente.<br/>
-"Ninguém mais tem um computador 286 ou usa MS DOS", respondeu Fu-Tzu.
+"Meu programa pode computar o movimento das estrelas em um computador 286 com MS-DOS", anunciou orgulhosamente.<br/>
+"Ninguém mais tem um computador 286 nem usa MS-DOS", respondeu Fu-Tzu.
 
 Fu-Tzu escreveu um pequeno programa cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
 "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
