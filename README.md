@@ -1,9 +1,11 @@
 <img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="right">
 
 <i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>,<br/>
-que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.<br/>
+que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.
+
 Na verdade, não é bem um livro: trata-se de um bem humorado<br/>
-"texto zen apócrifo", atribuído ao mestre fictício Fu-tzu.<br/>
+"texto zen apócrifo", atribuído ao mestre fictício Fu-tzu.
+
 Se você quiser conhecer as verdadeiras obras clássicas,<br/>
 como o <b>Wu-wen kuan</b> e o <b>Hsin-hsin Ming</b>,<br/>
 consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
