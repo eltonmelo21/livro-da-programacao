@@ -1,7 +1,7 @@
 <i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>, que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>.<br/>
 Na verdade, não é bem um livro: trata-se de um bem humorado "texto zen apócrifo" do mestre fictício Fu-tzu.<br/>
 Se você quiser conhecer as obras clássicas, como o <i>Wu-wen kuan</i> e o <i>Hsin-hsin Ming</i>, consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
-  
+
 # O Livro da Programação
 
 ## Os Dois Aspectos
@@ -20,14 +20,14 @@ O aspecto do processador é a substância ativa. É chamado de <i>Controle</i>.<
 O aspecto da memória é a substância passiva.
 É chamado de <i>Dados</i>.
 
-Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
-O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
+Os Dados são feitos apenas de bits, mas assumem formas complexas.<br/>
+O Controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
 Do pequeno e trivial, surge o grandes e complexo.
 
-A fonte do programa são os dados. O controle surge disso.<br/>
-O controle passa a criar novos dados.<br/>
+A fonte do programa são os Dados. O Controle surge disso.<br/>
+O Controle passa a criar novos Dados.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
-Este é o ciclo harmonioso dos Dados e do Controle.
+Este é o ciclo harmonioso de Dados e Controle.
 
 Por si mesmos, os Dados e o Controle são sem estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
