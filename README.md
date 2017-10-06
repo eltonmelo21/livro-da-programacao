@@ -39,8 +39,8 @@ E o controle caótico foi restrito ao controle de estruturas e funções.
 Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de dados e controle, Fu-Tzu respondeu:<br/>
 "Pense em um compilador, compilando a si mesmo".
 
-Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
-Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram belas cabanas."
+Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram  programas bonitos. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
+Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram cabanas bonitas."
 
 Um eremita passou dez anos escrevendo um programa.<br/>
 "Meu programa pode computar o movimento das estrelas em um computador 286 com MS-DOS", anunciou orgulhosamente.<br/>
@@ -60,48 +60,42 @@ Ao ouvi-lo, Fu-Tzu riu. "Aqui está uma folha de papel. Escreva para mim o valor
 Fu-Tzu disse: "Quando você corta contra a fibra da madeira, muita força é ncessária.<br/>
 Quando você programa contra a fibra de um problema, muito código é necessário."
 
-Tzu-li e Tzu-ssu estavam se gavando sobre o tamanho dos seus últimos programas.<br/>
+Tzu-li e Tzu-ssu estavam se gabando sobre o tamanho dos seus últimos programas.<br/>
 "Duzentas mil linhas", disse Tzu-li, "sem contar os comentários!"<br/>
 "Capaz", disse Tzu-ssu, "o meu já tem quase <i>um milhão</i> de linhas."<br/>
 Fu-Tzu disse: "O meu melhor programa tem quinhentas linhas".<br/>
 Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.
 
-A student had been sitting motionless behind his computer for hours, frowning darkly.
-He was trying to write a beautiful solution to a difficult problem, but could not find the right approach.
-Fu-Tzu hit him on the back of his head and shouted '*Type something!*' 
-The student started writing an ugly solution. After he had finished, he suddenly understood the beautiful solution.
+Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo sombriamente a testa.
+Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem certa.
+Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"
+O aluno começou a escrever uma solução feia.
+Depois de terminar, ele subitamente entendeu a solução bonita.
 
 ## Progressão
 
-A beginning programmer writes his programs like an ant builds her
-hill, one piece at a time, without thought for the bigger structure.
-His programs will be like loose sand. They may stand for a while, but
-growing too big they fall apart{Referring to the danger of internal
-inconsistency and duplicated structure in unorganised code.}.
+Um progragramador principantes escreve seus programas como uma formiga constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.
+Seus programas serão como a areia fofa.
+Eles podem ficar por um tempo, mas crescendo demais, eles desmoronarão.
+<i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i>
 
-Realising this problem, the programmer will start to spend a lot of
-time thinking about structure. His programs will be rigidly
-structured, like rock sculptures. They are solid, but when they must
-change, violence must be done to them{Referring to the fact that
-structure tends to put restrictions on the evolution of a program.}.
+Percebendo esse problema, o programador começará a gastar muito tempo pensando na estrutura.
+Seus programas serão estruturados rigidamente, como esculturas na rocha.
+Eles são sólidos, mas quando precisarem mudar, violência precisa ser feita com eles.
+<i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i>
 
-The master programmer knows when to apply structure and when to leave
-things in their simple form. His programs are like clay, solid yet
-malleable.
+O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simpla.
+Seus programas são como a argila, sólidos porém maleaveis.
 
 ## Linguagem
 
-When a programming language is created, it is given syntax and
-semantics. The syntax describes the form of the program, the semantics
-describe the function. When the syntax is beautiful and the semantics
-are clear, the program will be like a stately tree. When the syntax is
-clumsy and the semantics confusing, the program will be like a bramble
-bush.
+Quando uma linguagem de programação é criada, lhe é dada a sintaxe e a semântica.
+A sintaxe descreve a forma do programa, a semântica descreva a função.
+Quando a sintaxe é bonita e a semântica é claras, o programa será como uma árvore majestosa.
+Quando a sintaxe é desajeitado e a semântica confusa, o programa será como um arbusto espinhento.
 
-Tzu-ssu was asked to write a program in the language called Java,
-which takes a very primitive approach to functions. Every morning, as
-he sat down in front of his computer, he started complaining. All day
-he cursed, blaming the language for all that went wrong. Fu-Tzu
-listened for a while, and then reproached him, saying 'Every language
-has its own way. Follow its form, do not try to program as if you
-were using another language.'
+A Tzu-ssu foi pedido que escrevesse um programa em uma linguagem chamada Java, que tem uma abordagem muito primitiva com as funções.
+Todas as manhãs, quando se sentava na frente do seu computador, ele começava a reclamar.
+Ele xingavao o dia todo, culpando a linguagem por tudo o que ele fez errado.
+Fu-Tzu escutou por um tempo e então o censurou, dizendo:
+"Toda linguagem tem seu próprio caminho. Siga a forma dela, não tente programar como se você estivesse usando uma outra linguagem."
