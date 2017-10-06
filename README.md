@@ -14,17 +14,13 @@ Quando os criadores construíram a máquina,<br/>
 eles colocaram o processador e a memória.<br/>
 Destes surgem os dois aspectos do programa.
 
-O aspecto do processador é a substância ativa.
-<br/>É chamado de <i>Controle</i>.<br/>
+O aspecto do processador é a substância ativa. É chamado de <i>Controle</i>.<br/>
 O aspecto da memória é a substância passiva.
 É chamado de <i>Dados</i>.
 
-Os dados são feitos apenas de bits,<br/>
-mas assumem formas complexas.<br/>
-O controle consiste apenas em instruções simples,<br/>
-mas realiza tarefas difíceis.<br/>
-Do pequeno e trivial,<br/>
-surge o grandes e complexo.
+Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
+O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
+Do pequeno e trivial, surge o grandes e complexo.
 
 A fonte do programa são os dados. O controle surge disso.<br/>
 O controle passa a criar novos dados.<br/>
@@ -32,7 +28,7 @@ Um nasce do outro, o outro é inútil sem o um.<br/>
 Este é o ciclo harmonioso dos Dados e do Controle.
 
 Por si mesmos, os Dados e o Controle são sem estrutura.<br/>
-Os programadores do passado moldaram seus programas desta substância bruta.<br/>
+Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
 Ao longo do tempo, os Dados amorfos cristalizaram-se em tipos de dados<br/>
 E o Controle caótico foi restrito ao controle de estruturas e funções.
 
