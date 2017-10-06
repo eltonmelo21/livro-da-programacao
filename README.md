@@ -14,85 +14,84 @@ A essência permanece invisivelmente abaixo.<hr/>
 
 Quando os criadores construíram a máquina,<br/>
 eles colocaram o processador e a memória.<br/>
-Destes surgem os dois aspectos do programa.
+Destes surgem os dois aspectos do programa.<hr/>
 
 O aspecto do processador é a substância ativa. É chamado de <i>controle</i>.<br/>
-O aspecto da memória é a substância passiva.
-É chamado de <i>dados</i>.
+O aspecto da memória é a substância passiva. É chamado de <i>dados</i>.<hr/>
 
 Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
 O controle consiste apenas de instruções simples, mas realiza tarefas difíceis.<br/>
-Do pequeno e trivial, surge o grande e complexo.
+Do pequeno e trivial, surge o grande e complexo.<hr/>
 
 A fonte do programa são os dados. O controle surge disso.<br/>
 O controle passa a criar dados novos.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
-Este é o ciclo harmonioso de dados e controle.
+Este é o ciclo harmonioso de dados e controle.<hr/>
 
 Por si mesmos, os dados e o controle não têm estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
 Ao longo do tempo, os dados amorfos cristalizaram-se em tipos de dados<br/>
-E o controle caótico foi restrito ao controle de estruturas e funções.
+E o controle caótico foi restrito ao controle de estruturas e funções.<hr/>
 
 ## Ditados Curtos
 
 Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo de dados e controle, Fu-Tzu respondeu:<br/>
-"Pense em um compilador, compilando a si mesmo".
+"Pense em um compilador, compilando a si mesmo".<hr/>
 
 Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram  programas bonitos. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
-Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram cabanas bonitas."
+Fu-Tzu respondeu: "Os construtores do passado usavam apenas gravetos e argila, mas eles construíram cabanas bonitas."<hr/>
 
 Um eremita passou dez anos escrevendo um programa.<br/>
 "Meu programa pode computar o movimento das estrelas em um computador 286 com MS-DOS", anunciou orgulhosamente.<br/>
-"Ninguém mais tem um computador 286 nem usa MS-DOS", respondeu Fu-Tzu.
+"Ninguém mais tem um computador 286 nem usa MS-DOS", respondeu Fu-Tzu.<hr/>
 
 Fu-Tzu escreveu um programinha cheio de <i>global state</i> e atalhos duvidosos. Ao lê-lo, um aluno perguntou:<br/>
 "Você nos advertiu contra usar estas técnicas, mas eu as encontro no seu programa. Como pode isso?"<br/>
 Fu-Tzu disse: "Não há necessidade de procurar uma mangueira quando a casa não está em chamas."<br/>
-<i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i>
+<i>(Isso não deve ser lido como um encorajamento à programação desleixada, mas como uma advertência contra a adesão neurótica a "regras de ouro".)</i><hr/>
 
 ## Sabedoria
 
 Um aluno estava reclamando a respeito dos números digitais.</br>
 "Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"<br/>
-Ao ouvi-lo, Fu-Tzu riu. "Aqui está uma folha de papel. Escreva para mim o valor preciso da raiz quadrada de dois."
+Ao ouvi-lo, Fu-Tzu riu. "Aqui está uma folha de papel. Escreva para mim o valor preciso da raiz quadrada de dois."<hr/>
 
 Fu-Tzu disse: "Quando você corta contra a fibra da madeira, muita força é ncessária.<br/>
-Quando você programa contra a fibra de um problema, muito código é necessário."
+Quando você programa contra a fibra de um problema, muito código é necessário."<hr/>
 
 Tzu-li e Tzu-ssu estavam se gabando sobre o tamanho dos seus últimos programas.<br/>
 "Duzentas mil linhas", disse Tzu-li, "sem contar os comentários!"<br/>
 "Capaz", disse Tzu-ssu, "o meu já tem quase <i>um milhão</i> de linhas."<br/>
 Fu-Tzu disse: "O meu melhor programa tem quinhentas linhas".<br/>
-Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.
+Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.<hr/>
 
 Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo sombriamente a testa.<br/>
 Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem certa.<br/>
 Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"<br/>
 O aluno começou a escrever uma solução feia.<br/>
-Depois de terminar, ele subitamente compreendeu a solução bonita.
+Depois de terminar, ele subitamente compreendeu a solução bonita.<hr/>
 
 ## Progressão
 
 Um progragramador principantes escreve seus programas como uma formiga constrói a sua colina, uma peça de cada vez, sem pensar na estrutura maior.<br/>
 Seus programas serão como a areia fofa.<br/>
 Eles podem ficar por um tempo, mas crescendo demais, eles desmoronarão.<br/>
-<i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i>
+<i>(Referindo-se ao perigo da inconsistência interna e da estrutura duplicada em um código desorganziado.)</i><hr/>
 
 Percebendo esse problema, o programador começará a gastar muito tempo pensando na estrutura.<br/>
 Seus programas serão estruturados rigidamente, como esculturas na rocha.<br/>
 Eles são sólidos, mas quando precisarem mudar, violência precisa ser feita com eles.<br/>
-<i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i>
+<i>(Referindo-se ao fato de que a estrutura tende a colocar restrições na evolução de um programa.)</i><hr/>
 
 O programador mestre sabe quando aplicar a estrutura e quando deixar as coisas na sua forma simples.<br/>
-Seus programas são como a argila, sólidos porém maleaveis.
+Seus programas são como a argila, sólidos porém maleaveis.<hr/>
 
 ## Linguagem
 
 Quando uma linguagem de programação é criada, lhe é dada a sintaxe e a semântica.<br/>
 A sintaxe descreve a forma do programa, a semântica descreva a função.<br/>
 Quando a sintaxe é bonita e a semântica é claras, o programa será como uma árvore majestosa.<br/>
-Quando a sintaxe é desajeitado e a semântica confusa, o programa será como um arbusto espinhento.<br/>
+Quando a sintaxe é desajeitado e a semântica confusa, o programa será como um arbusto espinhento.<hr/>
 
 A Tzu-ssu foi pedido que escrevesse um programa em uma linguagem chamada Java, que tem uma abordagem muito primitiva com as funções.<br/>
 Todas as manhãs, quando se sentava na frente do seu computador, ele começava a reclamar.<br/>
