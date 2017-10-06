@@ -1,4 +1,4 @@
-<i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>, que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os clássicos, consulte <a href="http://www.sacred-texts.com/bud/zen/">este site</a>.</i>
+<i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>, que apareceu na primeira edição do <b><a href="http://eloquentjavascript.net">Eloquent JavaScript</a></b>. Na verdade, não é um livro: trata-se de um humorado "texto zen apócrifo"! Se você quiser conhecer os clássicos, consulte <b><a href="http://www.sacred-texts.com/bud/zen/">este site</a></b>.</i>
   
 # O Livro da Programação
 
@@ -51,27 +51,24 @@ Fu-Tzu disse: "Não há necessidade de buscar uma mangueira quando a casa não e
 
 ## Sabedoria
 
-A student was complaining about digital numbers. 'When I take the root
-of two and then square it again, the result is already inaccurate!'.
-Overhearing him, Fu-Tzu laughed. 'Here is a sheet of paper. Write down
-the precise value of the square root of two for me.'
+Um aluno estava reclamando sobre números digitais.</br>
+"Quanto eu tiro a raiz de dois e então a elevo ao quadrado de novo, o resultado já fica impreciso!"
+Ao ouvi-lo, Fu-Tzu riu.<br/>
+"Aqui está uma folha de papel. Escreva o valor preciso da raiz quadrada de dois para mim."
 
-Fu-Tzu said 'When you cut against the grain of the wood, much strength
-is needed. When you program against the grain of a problem, much code
-is needed.'
+Fu-Tzu disse: "Quando você corta contra a fibra da madeira, muita força é ncessária.<br/>
+Quando você programa contra a fibra de um problema, muito código é necessário."
 
-Tzu-li and Tzu-ssu were boasting about the size of their latest
-programs. 'Two-hundred thousand lines', said Tzu-li, 'not counting
-comments!'. 'Psah', said Tzu-ssu, 'mine is almost a *million* lines
-already.' Fu-Tzu said 'My best program has five hundred lines.'
-Hearing this, Tzu-li and Tzu-ssu were enlightened.
+Tzu-li e Tzu-ssu estavam se gavando sobre o tamanho dos seus últimos programas.<br/>
+"Duzentas mil linhas", disse Tzu-li, "sem contar os comentários!"<br/>
+"Capaz", disse Tzu-ssu, "o meu já tem quase <i>um milhão</i> de linhas."<br/>
+Fu-Tzu disse: "O meu melhor programa tem quinhentas linhas".<br/>
+Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.
 
-A student had been sitting motionless behind his computer for hours,
-frowning darkly. He was trying to write a beautiful solution to a
-difficult problem, but could not find the right approach. Fu-Tzu hit
-him on the back of his head and shouted '*Type something!*' The student
-started writing an ugly solution. After he had finished, he suddenly
-understood the beautiful solution.
+A student had been sitting motionless behind his computer for hours, frowning darkly.
+He was trying to write a beautiful solution to a difficult problem, but could not find the right approach.
+Fu-Tzu hit him on the back of his head and shouted '*Type something!*' 
+The student started writing an ugly solution. After he had finished, he suddenly understood the beautiful solution.
 
 ## Progressão
 
