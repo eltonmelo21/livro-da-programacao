@@ -77,7 +77,7 @@ Ao ouvir isso, Tzu-li e Tzu-ssu foram iluminados.
 
 Um aluno estava sentado imóvel atrás de seu computador por horas, franzindo sombriamente a testa.<br/>
 Ele estava tentando escrever uma solução bonita para um problema difícil, mas não conseguiu encontrar a abordagem correta.<br/>
-Fu-Tzu bateu atrás da cabeça dele gritou: "Digite algo!"<br/>
+Fu-Tzu bateu atrás da cabeça dele e gritou: "Digite algo!"<br/>
 O aluno começou a escrever uma solução feia.<br/>
 Depois de terminar, ele subitamente compreendeu a solução bonita.<hr/>
 
