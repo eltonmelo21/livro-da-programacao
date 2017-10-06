@@ -16,27 +16,27 @@ Quando os criadores construíram a máquina,<br/>
 eles colocaram o processador e a memória.<br/>
 Destes surgem os dois aspectos do programa.
 
-O aspecto do processador é a substância ativa. É chamado de <i>Controle</i>.<br/>
+O aspecto do processador é a substância ativa. É chamado de <i>controle</i>.<br/>
 O aspecto da memória é a substância passiva.
-É chamado de <i>Dados</i>.
+É chamado de <i>dados</i>.
 
-Os Dados são feitos apenas de bits, mas assumem formas complexas.<br/>
-O Controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
+Os dados são feitos apenas de bits, mas assumem formas complexas.<br/>
+O controle consiste apenas em instruções simples, mas realiza tarefas difíceis.<br/>
 Do pequeno e trivial, surge o grandes e complexo.
 
-A fonte do programa são os Dados. O Controle surge disso.<br/>
-O Controle passa a criar novos Dados.<br/>
+A fonte do programa são os dados. O controle surge disso.<br/>
+O controle passa a criar novos dados.<br/>
 Um nasce do outro, o outro é inútil sem o um.<br/>
-Este é o ciclo harmonioso de Dados e Controle.
+Este é o ciclo harmonioso de dados e controle.
 
-Por si mesmos, os Dados e o Controle são sem estrutura.<br/>
+Por si mesmos, os dados e o controle são sem estrutura.<br/>
 Os programadores do passado moldaram seus programas a partir desta substância bruta.<br/>
-Ao longo do tempo, os Dados amorfos cristalizaram-se em tipos de dados<br/>
-E o Controle caótico foi restrito ao controle de estruturas e funções.
+Ao longo do tempo, os dados amorfos cristalizaram-se em tipos de dados<br/>
+E o controle caótico foi restrito ao controle de estruturas e funções.
 
 ## Ditados Curtos
 
-Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo dos Dados e Controle, Fu-Tzu respondeu:<br/>
+Quando um aluno perguntou a Fu-Tzu sobre a natureza do ciclo dos Dados e controle, Fu-Tzu respondeu:<br/>
 "Pense em um compilador, compilando a si mesmo".
 
 Um aluno perguntou: "Os programadores do passado usavam apenas máquinas simples e sem linguagens de programação, mas eles criaram belos programas. Por que usamos máquinas complicadas e linguagens de programação?"<br/>
