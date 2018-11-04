@@ -1,5 +1,3 @@
-<img src="https://www.nationstates.net/images/flags/uploads/enso_and_mu__740679.png" align="left" hspace="50">
-
 ## Nota do tradutor
 
 <i>Esta é uma tradução livre de <b><a href="http://eloquentjavascript.net/1st_edition/chapter6.html">The Book of Programming</a></b>,<br/>
